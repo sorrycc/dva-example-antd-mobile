@@ -2,6 +2,7 @@
   "private": true,
   "dependencies": {
     "antd-mobile": "^0.9.0",
+    "babel-runtime": "^6.20.0",
     "dva": "^1.0.0",
     "react": "^15.1.0",
     "react-dom": "^15.1.0"
@@ -9,8 +10,7 @@
   "devDependencies": {
     "babel-plugin-dva-hmr": "^0.2.1",
     "babel-plugin-import": "^1.0.1",
-    "babel-plugin-transform-runtime": "^6.9.0",
-    "babel-runtime": "^6.9.2",
+    "babel-plugin-transform-runtime": "^6.15.0",
     "expect": "^1.20.2",
     "redbox-react": "^1.2.10",
     "roadhog": "^0.3.2"

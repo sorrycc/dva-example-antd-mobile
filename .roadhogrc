@@ -1,5 +1,6 @@
 {
   "extraBabelPlugins": [
+    "transform-runtime",
     ["import", { "libraryName": "antd-mobile", "style": "css" }]
   ]
 }
